@@ -12,6 +12,15 @@
   background-color: rgba(175, 22, 22, 0.356);
   color: rgb(32, 30, 30);
 }
+.r p {
+  text-align: center;
+  align-items: center;
+}
+h2 {
+  padding-top: 5%;
+  text-align: center;
+  align-items: center;
+}
 .test h1 {
   padding: 0%;
 }
@@ -20,7 +29,7 @@
   justify-content: space-between;
 }
 .T1 {
-  display: flex;
+  align-items: center;
   justify-content: space-between;
 }
 .T2 {
@@ -45,6 +54,9 @@ H3 {
   text-align: center;
   padding-top: 3%;
 }
+.d {
+  color: blue;
+}
 .ECONOMIE {
   text-align: center;
 }
@@ -54,12 +66,13 @@ H3 {
 .BUS {
   text-align: center;
   border-color: rgb(24, 23, 23);
-  padding-bottom: 5%;
+  padding-bottom: 0%;
 }
 
 footer {
   text-align: center;
-  padding: 1%;
+  padding-top: 0%;
+  padding-bottom: 2%;
   background-color: gray;
   color: black;
 }
