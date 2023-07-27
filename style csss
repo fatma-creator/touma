@@ -57,10 +57,10 @@ H3 {
 .d {
   color: blue;
 }
-.ECONOMIE {
+.ECONOMIE CARS {
   text-align: center;
 }
-.EXPENSIVE {
+.EXPENSIVE CARS {
   text-align: center;
 }
 .BUS {
